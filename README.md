@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @JIanKim-coder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Profile
+* My MBTI is ENTP
+* Currently live in Seoul, Republic of Korea
+* Interested in Veterinary Science
+* Graduated in Seoul Sahmyook Elementary School
+* Love to share thoughts with others
+
 
 <!---
 JIanKim-coder/JIanKim-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
